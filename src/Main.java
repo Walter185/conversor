@@ -11,7 +11,8 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("***************************************************");
+            System.out.println("*******************1" +
+                    "********************************");
             System.out.println("Bienvenidos al Conversor de Monedas");
             System.out.println("***************************************************");
             System.out.println("1) Dólar => Peso argentino");
